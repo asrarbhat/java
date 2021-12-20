@@ -92,7 +92,29 @@ public class Main {
 //        System.out.println(map);
 
 
-        //bitwise
+
+        //by default int and double
+
+
+//        to check character code
+//        char c=97;
+//        int  ch=c;
+//        System.out.println(c+" "+ch);
+
+        //getting time
+//        Date now=new Date();
+//        System.out.println(now.getTime());
+
+        //final for constants
+//        final float PI=3.12
+
+//        to read char read string and then do charAt(0) to get it as it returns char
+
+        //block scope
+
+        //switch case can have strings
+
+        //string equality str.equals("hi") or compareTo but it returns number
 
 
 
